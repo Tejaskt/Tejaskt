@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Tejaskt/Tejaskt/output/snake.svg](https://github.com/Tejaskt/Tejaskt/blob/main/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tejaskt/Tejaskt/output/snake.svg" alt="Snake animation" />
 
 ###
 

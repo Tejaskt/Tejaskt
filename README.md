@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hey there! I'm Tejas Kanzariya, an aspiring Android developer.<br><br>📚 Studying in the IT field, I'm on a journey to become a skilled Android developer. My language of choice? Kotlin! 🚀<br><br>I believe in the power of clean code and user-centric design to shape seamless app interactions.</h3>
+<h3 align="left">👋 Hey there! I'm Tejas Kanazriya, an aspiring Android developer.<br><br>📚 Studying in the IT field, I'm on a journey to become a skilled Android developer. My language of choice? Kotlin! 🚀<br><br>I believe in the power of clean code and user-centric design to shape seamless app interactions.</h3>
 
 ###
 
